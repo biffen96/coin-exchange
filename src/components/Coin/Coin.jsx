@@ -2,12 +2,6 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components'
 
-/*
-.coin-row td {
-    border: 1px solid #cccccc;
-    width: 25vh;
-}
-*/
 const Td = styled.td`
     border: 1px solid #cccccc;
     width: 25vh;
